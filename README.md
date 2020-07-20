@@ -1,4 +1,4 @@
-# desafioFinalBootcampFullstack
+# Controle Pessoal de Despesas
 
 Repositório com o projeto final do Bootcamp Fullstack IGTI. 
 
